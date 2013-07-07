@@ -2,7 +2,9 @@
   "name": "bitstarter",
   "version": "0.0.1",
   "dependencies": {
-    "express": "3.x"
+    "express": "3.x",
+    "cheerio": "~0.12.0",
+    "commander": "~1.2.0"
   },
   "engines": {
     "node": "0.10.x",
